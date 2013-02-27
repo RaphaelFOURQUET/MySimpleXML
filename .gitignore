@@ -1,1 +1,5 @@
-/MySimpleXML
+*.class
+target
+*.settings
+*.classpath
+*.project
